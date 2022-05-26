@@ -1,5 +1,5 @@
-#SNIP - Template
-#####A simple to use template to get a basic dynamic website up and running.
+# SNIP - Template
+##### A simple to use template to get a basic dynamic website up and running.
 
 *This template mostly only uses back-end code and has a few elements for the front-end. Most elements are optional and you can choose to turn them on or off.*
 *More information and instructions will be in the settings.php file.*
