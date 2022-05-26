@@ -30,6 +30,10 @@
 
 				echo '<meta name="robots" content="index,follow">';
 
+			} else {
+
+				echo '<meta name="robots" content="noindex,nofollow">';
+
 			}
 
 			if ($setting_favicon == true) {
