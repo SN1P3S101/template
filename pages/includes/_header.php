@@ -8,7 +8,7 @@
 
 			if ($setting_bootstrap == true) {
 
-				//TODO: Install Bootstrap and add link
+				echo '<link rel="stylesheet" href="resources/css/bootstrap.min.css"';
 
 			}
 

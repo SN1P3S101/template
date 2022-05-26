@@ -8,6 +8,10 @@
 				<?php
 			}
 
+			if ($setting_bootstrap == true) {
+				echo '<script src="resources/js/bootstrap/bootstrap.min.js"';
+			}
+
 			if ($setting_javascript == true) {
 				echo '<script src="resources/js/functions.js"></script>';
 			}
